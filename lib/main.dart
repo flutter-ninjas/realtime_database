@@ -205,16 +205,6 @@ class _MyAppState extends State<MyApp> {
                         ),
                       ),
                     );
-                    // String uid =
-                    //     await FirebaseAuthHelper.authHelper.loginAnonymously();
-                    // print("Login Successfully\nUID: $uid");
-                    // Navigator.of(context).pushReplacementNamed('dashboard');
-                    // ScaffoldMessenger.of(context).showSnackBar(
-                    //   SnackBar(
-                    //     content: Text("Login Successfully\nUID: $uid"),
-                    //     backgroundColor: Colors.green,
-                    //   ),
-                    // );
                   },
                 ),
                 FloatingActionButton.extended(
@@ -353,16 +343,6 @@ class _MyAppState extends State<MyApp> {
                         ),
                       ),
                     );
-                    // String uid =
-                    //     await FirebaseAuthHelper.authHelper.loginAnonymously();
-                    // print("Login Successfully\nUID: $uid");
-                    // Navigator.of(context).pushReplacementNamed('dashboard');
-                    // ScaffoldMessenger.of(context).showSnackBar(
-                    //   SnackBar(
-                    //     content: Text("Login Successfully\nUID: $uid"),
-                    //     backgroundColor: Colors.green,
-                    //   ),
-                    // );
                   },
                 ),
               ],
